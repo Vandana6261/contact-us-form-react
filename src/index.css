@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+/* toast('🦄 Wow so easy!', {
+position: "top-right",
+autoClose: 3000,
+hideProgressBar: false,
+closeOnClick: false,
+pauseOnHover: true,
+draggable: true,
+progress: undefined,
+theme: "light",
+transition: Bounce,
+}); */
+
+
+/* 
+.toastBody {
+  font-family: "Atlas Grotesk Web", Arial, Helvetica, sans-serif;
+  color: #10171D;
+  font-size: 0.875rem !important;
+} 
+*/
